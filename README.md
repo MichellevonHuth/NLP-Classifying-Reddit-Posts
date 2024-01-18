@@ -24,9 +24,9 @@ The dataset used in this project comprises over 700,000 posts from various menta
 The detailed report is included in the repository. The report delves into the motivation, methodology, and findings of the study, emphasizing the impact of tf-idf and Word2Vec embeddings on classification models.
 
 ### Data Pre-Processing
-Figure 2 shows the general workflow followed for the pre-processing and splitting of the data.
+Figure below shows the general workflow followed for the pre-processing and splitting of the data.
 
-<img width="217" alt="image" src="https://github.com/MichellevonHuth/NLP-Classifying-Reddit-Posts/assets/56582203/bc00efad-67e4-4304-8cd2-7b0430b6cc10">
+<img width="500" alt="image" src="https://github.com/MichellevonHuth/NLP-Classifying-Reddit-Posts/assets/56582203/bc00efad-67e4-4304-8cd2-7b0430b6cc10">
 
 
 
