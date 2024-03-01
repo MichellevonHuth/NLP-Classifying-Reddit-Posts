@@ -6,7 +6,7 @@ Welcome to our Reddit Post Classification project! This repository contains the 
 
 ## Dataset
 
-The dataset used in this project comprises over 700,000 posts from various mental health subreddits. The data was obtained from Kaggle, created using the official Reddit API and PushShift API. 
+The dataset used in this project comprises over 700,000 posts from various mental health subreddits. The data was obtained from Kaggle. 
 
 ## Authors
 
